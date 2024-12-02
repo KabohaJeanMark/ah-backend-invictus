@@ -1,6 +1,6 @@
 Authors Haven - A Social platform for the creative at heart.
 =======
-[![Build Status](https://travis-ci.com/andela/ah-backend-invictus.svg?branch=develop)](https://travis-ci.com/andela/ah-backend-invictus) [![Coverage Status](https://coveralls.io/repos/github/andela/ah-backend-invictus/badge.svg?branch=develop)](https://coveralls.io/github/andela/ah-backend-invictus?branch=develop)
+[![Coverage Status](https://coveralls.io/repos/github/andela/ah-backend-invictus/badge.svg?branch=develop)](https://coveralls.io/github/andela/ah-backend-invictus?branch=develop)
 
 ## Vision
 Create a community of like minded authors to foster inspiration and innovation
